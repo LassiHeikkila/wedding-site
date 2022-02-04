@@ -26,6 +26,7 @@ url: "https://satu-ja-lassi.wedding" # the base hostname & protocol for your sit
 
 # Build settings
 theme: jekyll-theme-clean-blog
+remote_theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 
