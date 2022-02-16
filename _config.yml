@@ -27,6 +27,10 @@ url: "https://satu-ja-lassi.wedding" # the base hostname & protocol for your sit
 # Build settings
 # theme: jekyll-theme-clean-blog
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+
+paginate:           5
+paginate_path:      "/posts/page:num/"
+
 plugins:
   - jekyll-feed
   - jekyll-paginate
