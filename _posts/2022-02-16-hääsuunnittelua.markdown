@@ -4,6 +4,7 @@ author: "Satu"
 title:  "Suunnitelmia"
 date:   2022-02-16 21:10:00 +0200
 categories:
+background: '/img/stylish.jpg'
 ---
 
 Nopeasti kosinnan jälkeen käynnistyivät hääsuunnitelmat, joista hääpäivä ja juhlatilan varaus lyötiin lukkoon kuukautta myöhemmin. 

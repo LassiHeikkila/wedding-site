@@ -4,6 +4,7 @@ author: "Satu"
 title:  "Tästä se lähti"
 date:   2022-02-15 21:08:00 +0200
 categories:
+background: '/img/beach.jpg'
 ---
 
 Hullua kuinka aika rientää! 
