@@ -29,6 +29,7 @@ url: "https://satu-ja-lassi.wedding" # the base hostname & protocol for your sit
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
