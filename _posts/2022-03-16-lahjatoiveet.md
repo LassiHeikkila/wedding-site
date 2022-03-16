@@ -18,7 +18,10 @@ Tavoitteena on selvitä häistä ja häämatkasta ilman velkoja, ja lisäksi sam
 Häämatkan tavoitteena on viettää kymmenen päivää Italiassa heti häiden jälkeen.
 Lentoliput on jo ostettu (osittain vanhentuvilla lentopisteillä), mutta hotelleja, autovuokria, aktiviteetteja tai ruokailuja ei ole vielä katettu.
 
-Jos siis haluatte tukea meitä matkan toteuttamisessa, rahaa voi siirtää tilille:
-Tilinumero: `FI17 5741 3620 8830 14`
-Saaja: `HEIKKILÄ LASSI MATIAS JA ROIHA SATU`
-BIC: `OKOYFIHH`
+Jos siis haluatte tukea meitä matkan toteuttamisessa, rahaa voi siirtää tilille:  
+Tili:  
+`FI17 5741 3620 8830 14`  
+Saaja:  
+`HEIKKILÄ LASSI MATIAS JA ROIHA SATU`  
+BIC:  
+`OKOYFIHH`  
