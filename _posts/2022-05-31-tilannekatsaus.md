@@ -7,10 +7,10 @@ categories:
 background: '/img/beach.jpg'
 ---
 
-Niin se aika taas rientää. Tätä kirjoittaessa häihin on enää aikaa alle kolme kuukautta!
+Niin se aika taas rientää. Tätä kirjoittaessa häihin on aikaa alle kolme kuukautta!
 
 Asioita on saatu hoidettua viime aikoina hyvään tahtia, ja projektitaulu näyttääkin jo tältä:
-![projektitaulu](../img/projektitaulu.jpg)
+![projektitaulu](/assets/projektitaulu.jpg)
 
 Naimisiin pääsemisen suhteen tärkeimmät asiat on hoidettu heti mahdollisuuksien mukaan. Vihkijän osalta jouduimme kevään aikana olemaan maistraattiin useampaan otteeseen yhteydessä. Lopulta yksittäinen notaari otti meihin takaisinpäin yhteyttä kertoen tulevansa mielellään virallistamaan liittomme. Esteiden tutkinta puolestaan onnistui helposti, vain netissä lomake täyttämällä. Molempien onnistui allekirjoittamaan lomake sähköisesti ja viikkoa myöhemmin vastauskin jo saatiin, lailliset juhlat tulossa.
 
